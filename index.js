@@ -18,7 +18,7 @@ function greet(s){
     } else {
     return "Good Evening";
     }
-};
+}
 /* Write your implementation of displayMessage() */
 function displayMessage(s) {
   let string = document.getElementById("greeting");
